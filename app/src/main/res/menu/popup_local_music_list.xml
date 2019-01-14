@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/sort_by_music_name"
+        android:title="@string/sort_by_music_name"/>
+    <item
+        android:id="@+id/sort_by_artist_name"
+        android:title="@string/sort_by_artist"/>
+    <item
+        android:id="@+id/classify_by_artist"
+        android:title="@string/classify_by_artist">
+    </item>
+    <item
+        android:id="@+id/classify_by_album"
+        android:title="@string/classify_by_album">
+    </item>
+    <item
+        android:id="@+id/classify_by_folder"
+        android:title="@string/classify_by_folder">
+    </item>
+
+</menu>

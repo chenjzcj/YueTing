@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">悦听</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="there_is_no_song_yet">没有歌曲</string>
+    <string name="loading_hardly">正在努力加载</string>
+    <string name="local_music">本地音乐</string>
+
+    <!-- 歌曲列表的操作 -->
+    <string name="play_all">全部播放</string>
+    <string name="mutiple_choose">多选</string>
+
+    <!-- 歌曲列表的搜索框 -->
+    <string name="search">查找</string>
+    <string name="please_input_jianpin_or_quanpin">请输入简拼或全拼</string>
+
+    <!-- 歌曲列表操作 -->
+    <string name="cancel">取消</string>
+    <string name="sdcard_cannot_use">SD卡暂时不可用</string>
+
+    <!-- 排序、分类 -->
+    <string name="sort_by_music_name">按歌曲名称排序</string>
+    <string name="sort_by_artist">按歌手名称排序</string>
+    <string name="classify_by_artist">按歌手分类</string>
+    <string name="classify_by_album">按专辑分类</string>
+    <string name="classify_by_folder">按文件夹分类</string>
+
+</resources>
